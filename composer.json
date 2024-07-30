@@ -1,0 +1,16 @@
+{
+    "name": "tharsha/proelements",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/Tharsha-Ventures/proelements",
+    "authors": [
+      {
+        "name": "PROElements.org",
+        "homepage": "https://proelements.org/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=8.0"
+    }
+  }
